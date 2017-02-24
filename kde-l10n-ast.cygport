@@ -1,0 +1,10 @@
+inherit kde4
+
+NAME="kde-l10n-ast"
+VERSION=16.08.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE Asturian translation files"
+DESCRIPTION="KDE Asturian translation files"
+
+ARCH=noarch
